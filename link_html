@@ -1,0 +1,9 @@
+<!DOCTYPES html>
+<html>
+	<head>
+		<title> Link tag </title>
+	</head>
+	<body>
+		<a href = "www.google.com"> hii google </a>
+	</body>
+</html>
