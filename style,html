@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Style Attribute </title>
+	</head>
+	<body bgcolor="pink">
+		<h1> HTML </h1> 
+		<p style= "color: red;"> this is the example of style attribute </p>
+		<p style= "font-size: 150%"> this is the example of style attribute 
+		<p style= "color: blue; font-size: 200%"> this is the example of style attribute </p>
+	</body>
+</html>
